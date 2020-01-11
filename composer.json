@@ -39,7 +39,7 @@
         "colinmollenhour/credis": "1.6",
         "colinmollenhour/php-redis-session-abstract": "~1.2.2",
         "colinmollenhour/cache-backend-redis": "1.10.2",
-        "colinmollenhour/cache-backend-file": "1.4",
+        "colinmollenhour/cache-backend-file": "1.4.5",
         "composer/composer": "1.4.1",
         "monolog/monolog": "^1.17",
         "oyejorge/less.php": "~1.7.0",
